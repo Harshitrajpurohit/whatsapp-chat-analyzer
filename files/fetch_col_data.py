@@ -1,5 +1,5 @@
 from pyexpat.errors import messages
-from urlextract import URLExtract
+import urlextract.URLExtract as URLExtract
 import seaborn as sb
 import matplotlib.pyplot as plt
 import pandas as pd
