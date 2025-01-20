@@ -1,9 +1,0 @@
-streamlit
-urlextract
-pandas
-numpy
-matplotlib
-seaborn
-wordcloud
-re
-datetime
