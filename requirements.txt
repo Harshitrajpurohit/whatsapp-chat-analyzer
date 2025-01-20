@@ -5,5 +5,4 @@ numpy
 matplotlib
 seaborn
 wordcloud
-re
 datetime
