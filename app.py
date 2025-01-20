@@ -1,6 +1,6 @@
 import streamlit as st
-from files import fetch_col_data
-from files import preprocess
+import fetch_col_data
+import preprocess
 import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
